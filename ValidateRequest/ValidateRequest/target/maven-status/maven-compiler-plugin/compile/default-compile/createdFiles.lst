@@ -1,0 +1,5 @@
+com\validation\ValidateRequest\ModelType\ValidationMessage.class
+com\validation\ValidateRequest\ModelType\Validatecart.class
+com\validation\ValidateRequest\Controller\ValidationController.class
+com\validation\ValidateRequest\ValidateRequestApplication.class
+com\validation\ValidateRequest\ModelType\ShoppingCart.class
